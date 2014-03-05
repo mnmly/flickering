@@ -15,7 +15,7 @@
 		'cache_requests' => false,
 
 		// The lifetime of a cached request (minutes)
-		'lifetime' => 60 * 24 * 365,
+		'lifetime' => 5,
 	),
 
 );
